@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.headeer{
+    width: 200px;
+    height: 550px;
+    background-color: cornflowerblue;
+    position: fixed;
+    
+}
+
+.headeer .contact  i{
+    font-size: 2em;
+    margin-left: 80%;
+    color: wheat;
+   
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    margin-top: 30%;
+    gap: 20px;
+   
+}
+.icons i{
+    font-size: 2em;
+    color: white;
+}
+.icons h5{
+    font-size: 1em;
+    margin-top: 10px;
+}
+.iconone{
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+    gap: 20px;  
+}
+.iconone i{
+    font-size: 2em;
+    color: white;
+}
+.iconone h5{
+    font-size: 1em;
+    margin-top: 10px;
+}
+.icontwo{
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+    gap: 20px;
+    margin-left: -20px;  
+}
+.icontwo i{
+    font-size: 2em;
+    margin-top: 10px;
+    color: white;
+}
+.icontwo h5{
+    font-size: 1em;
+    margin-top: 10px;
+}
+.teacher{
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+    gap: 20px;
+    margin-left: -20px;    
+}
+.teacher i{
+    font-size: 2em;
+    margin-top: 10px;
+    color: white;
+}
+.teacher  h5{
+    font-size: 1em;
+    margin-top: 10px;
+}
+
+/* two */
+.fallow{
+    width: 200px;
+    height: 150px;
+    background-color: orchid;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    border-bottom: 8px solid blue;
+    
+}
+.fallow h4{
+    margin-top: 4%;
+    margin-left: 40%;
+    font-size: 1.8em;
+    /* font-size: 1.8em; */
+}
+.fallow p{
+    margin-left: 15%;
+    font-size: 1.8em;
+}
+
+.fallow i{
+    margin-top: 10%;
+    margin-left: 40%;
+    font-size: 1.8em;
+   
+}
+
+.contwo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+   padding-top: 5%;
+   
+}
+
+.scale{
+    width: 100px;
+    height: 100px;
+    background-color: #3333;
+}
